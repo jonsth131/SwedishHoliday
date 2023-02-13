@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "SwedishHoliday", "SwedishHoliday\SwedishHoliday.fsproj", "{E44E7614-65FF-41AD-BDCB-E62CEF5154D9}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Tests", "Tests\Tests.fsproj", "{0D936441-DEA2-44FB-85E9-C78E0B9AEE04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E44E7614-65FF-41AD-BDCB-E62CEF5154D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E44E7614-65FF-41AD-BDCB-E62CEF5154D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E44E7614-65FF-41AD-BDCB-E62CEF5154D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E44E7614-65FF-41AD-BDCB-E62CEF5154D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D936441-DEA2-44FB-85E9-C78E0B9AEE04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D936441-DEA2-44FB-85E9-C78E0B9AEE04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D936441-DEA2-44FB-85E9-C78E0B9AEE04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D936441-DEA2-44FB-85E9-C78E0B9AEE04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
